@@ -1,2 +1,2 @@
 ### Custom Camo Wiki
-###Go to the "Wiki" tab to view the wiki
+### Go to the "Wiki" tab to view the wiki
